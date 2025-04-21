@@ -166,9 +166,11 @@ PUTCHAR_PROTOTYPE{
 }
 ```
 ## Output screen shots of serial port utility   :
+
  ![alt text](<Screenshot 2025-04-10 111850.png>)
  
  ## Circuit board :
+ 
  ![alt text](<EXP04IOT circuit.jpeg>)
  
  ## Result :
